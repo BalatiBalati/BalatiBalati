@@ -1,11 +1,11 @@
 ![MasterHead](https://user-images.githubusercontent.com/44807606/125307809-c0ddc380-e306-11eb-9155-f5dc796d3163.gif)
 <h1 align="center">Hi 😁, I'm Balati Albert Balati</h1>
-<h3 align="center">A passionate fullstack developer, with a thrill and fascination for Robotics & Artificial Intelligence.</h3>
+<h3 align="center">A passionate Software Developer, with a thrill and fascination for Robotics & Artificial Intelligence.</h3>
 <img align="right" alt="Coding" width="400" height="350" src="https://webixnet.com/wp-content/uploads/2022/09/97639-coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balatibalati&label=Profile%20views&color=0e75b6&style=flat" alt="balatibalati" /> </p>
 
-- 🌱 I’m currently learning **React, Machine Learning & Deep Learning**
+- 🌱 I’m currently learning **React, Fullstack Development, Machine Learning & Deep Learning**
 
 - 👯 I’m looking to collaborate on **Game Development, Robotics Artificial Intelligence or Web Application Projects**
 
